@@ -1,1 +1,1 @@
-# tg-py
+# t.me/pythontgb_bot
